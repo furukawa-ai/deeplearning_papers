@@ -9,7 +9,7 @@ $ pip install -U tensorflow keras h5py
 ubuntu
 
 ```
-$ sudo apt-get install graphviz libgraphviz-dev
+$ sudo apt-get install graphviz libgraphviz-dev pkg-config
 $ pip install -U pygraphviz pydot pydot_ng
 ```
 
