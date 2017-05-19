@@ -63,3 +63,6 @@ $ git push origin master
 * https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 * https://github.com/terryum/awesome-deep-learning-papers
 
+### .gitignoreの書き方
+
+* https://git-scm.com/docs/gitignore
